@@ -1,6 +1,7 @@
 This file contains information for running the project code. 
 For detailed description of the project, see Project description.pdf.
 For detailed description of the data, see Data description.pdf.
+For a detailed report on the solution, See Report.pdf or Presentation.pptx.
 
 python main.py --help
 usage: main.py [-h] [-init {auto,manual}] [-k K] [-m M] [-s]
